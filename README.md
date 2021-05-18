@@ -26,13 +26,11 @@ const vignesh  = {
 }
 ```
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172443%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 125 Contributions in the Year 2021
+> 🏆 131 Contributions in the Year 2021
  > 
 > 📦 21.5 kB Used in Github's Storage 
  > 
@@ -73,13 +71,7 @@ Sunday       13 commits     █████░░░░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -94,10 +86,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/vigneshmanikandan97/vigneshmanikandan97/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
