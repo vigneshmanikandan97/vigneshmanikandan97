@@ -32,13 +32,13 @@ const vignesh  = {
 
 > 🏆 131 Contributions in the Year 2021
  > 
-> 📦 21.5 kB Used in Github's Storage 
+> 📦 29.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
