@@ -1,6 +1,13 @@
-### Hi there 👋🏽
+# Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70px" height="70px" style="position: relative; top: 20px; left: -5px">
 
-#### about-me.js
+My name is ***Vignesh Manikandan*** and I'm a ***_Software Development Engineer_*** at ***[Aruba Networks](https://www.arubanetworks.com)***
+
+
+<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150px" height="150px" style="position: absolute; top: 90px; right: 160px">
+
+### <img src="https://media.giphy.com/media/DgHAJrveNYC0N9oQjy/giphy.gif" width="50px" height="50px" style="position: relative; top: 20px;">Hit me up if you have any cool ideas that we can collaborate on! [![Gmail](https://img.shields.io/static/v1?label=Mail&message=Google&color=red)](mailto:vigneshm1797@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fv_gn_sh)](https://www.twitter.com/v_gn_sh)
+
+### <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" alt="wave-gif" width="30px" height="50px" style="position: relative; top: 10px; left: 10px">&nbsp;&nbsp;&nbsp;about-me.js
 ```javascript
 const vignesh  = {
         name = "Vignesh Manikandan",
@@ -25,6 +32,14 @@ const vignesh  = {
     }
 }
 ```
+
+### Stats ✨
+<section>
+    <div style="border-right: 2px solid black; width: 50%; background: linear-gradient(mask-image: linear-gradient(to right, black 50%, transparent 100%); height:  150px; width: 300px;)"><img src="https://github-readme-stats.vercel.app/api?username=vigneshmanikandan97&count_private=true&show_icons=true&theme=dark&border_radius=20&custom_title=Vignesh's%20GitHub%20Stat"></div>
+</section>
+![Vignesh's GitHub stats](s) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172443%20lines%20of%20code-blue)
 
