@@ -52,7 +52,7 @@ const vignesh  = {
 <section>
     <div style="display: flex; justify-content: space-around; align-items: center; padding: 15px; margin: 10px 0; width: 100%; height: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=vigneshmanikandan97&count_private=true&show_icons=true&theme=highcontrast&border_radius=20&custom_title=Vignesh's%20GitHub%20Stat" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmanikandan97&layout=compact" width="39%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmanikandan97&layout=compact" width="33%">
     </div>
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
