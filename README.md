@@ -23,9 +23,10 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 </div>
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
+    <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" alt="wave-gif" width="30px" height="50px">
     <p>
-        <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" alt="wave-gif" width="30px" height="50px">
-        <h3>&nbsp;&nbsp;&nbsp;about-me.js</h3></p>
+        <h3>&nbsp;&nbsp;&nbsp;about-me.js</h3>
+    </p>
 </div>
 
 ```javascript
