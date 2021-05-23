@@ -61,7 +61,69 @@ const vignesh  = {
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmanikandan97&layout=compact" width="33%">
     </div>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172443%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 138 Contributions in the Year 2021
+ > 
+> 📦 29.1 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
+🌆 Daytime    77 commits     ███████████░░░░░░░░░░░░░░   43.75% 
+🌃 Evening    70 commits     ██████████░░░░░░░░░░░░░░░   39.77% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
+Tuesday      36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.45% 
+Wednesday    50 commits     ███████░░░░░░░░░░░░░░░░░░   28.41% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Friday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+Saturday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   23.3% 
+Sunday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+
+<!--END_SECTION:waka-->
 </section>
 
 <!--
