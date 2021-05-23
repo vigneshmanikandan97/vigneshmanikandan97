@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px" height="50px" style="position: relative; top: 15px;">
+<h1>Hi there</h1><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px" height="50px" style="position: relative; top: 15px;">
 
 My name is ***Vignesh Manikandan*** and I craft astounding user experiences on the ***World Wide Web***!<br>
 ***_Software Development Engineer_*** at ***[Aruba Networks](https://www.arubanetworks.com)*** by 🏙 , ***Code Ninja*** by 🌌.
