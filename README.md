@@ -21,7 +21,7 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <a href="https://www.instagram.com/the.vig" style="width: 50px; height: 50px;"><img src="https://media.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif" alt="instagram" width="60px"></a>
 </div>
 
-<div align="center">
+<div>
     <p>
         <h3>✨&nbsp;about-me.js&nbsp;✨</h3>
     </p>
