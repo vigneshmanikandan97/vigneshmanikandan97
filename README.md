@@ -51,16 +51,25 @@ const vignesh  = {
     }
 }
 ```
+
 <br>
 
-## Stats ✨
 <section>
-    <div style="padding: 15px; margin: 10px 0; width: 100%; height: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vigneshmanikandan97&count_private=true&show_icons=true&theme=highcontrast&border_radius=20&custom_title=Consolidated%20Stats" width="45%"><br>
+    <div align="center" style="padding: 15px; margin: 10px 0; width: 100%; height: 100%;">
+        <p><h2>✨&nbsp;Quick Stats&nbsp;✨</h2></p>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=vigneshmanikandan97&count_private=true&show_icons=true&theme=highcontrast&border_radius=20&custom_title=Consolidated%20Stats" width="45%">
+        <br>
+        <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmanikandan97&layout=compact" width="33%">
     </div>
+</section>
 
-<!--START_SECTION:waka-->
+<section align="center">
+    <p><h2>✨&nbsp;Other Stats&nbsp;✨</h2></p>
+    <br>
+    <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172443%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
@@ -120,9 +129,6 @@ JavaScript               3 repos             ██████░░░░░�
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
 </section>
 
