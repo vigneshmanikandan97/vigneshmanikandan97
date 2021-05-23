@@ -60,7 +60,7 @@ const vignesh  = {
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshmanikandan97&layout=compact" width="33%">
     </div>
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172443%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
