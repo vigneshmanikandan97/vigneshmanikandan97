@@ -58,7 +58,7 @@ const vignesh  = {
     <div style="padding: 15px; margin: 10px 0; width: 100%; height: 100%;">
         <p><h2>✨&nbsp;Quick Stats&nbsp;✨</h2></p>
         <br>
-        <div style="display: flex; justify-content: space-around; align-items: center;">
+        <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
             <img src="https://github-readme-stats.vercel.app/api?username=vigneshmanikandan97&count_private=true&show_icons=true&theme=highcontrast&border_radius=20&custom_title=Consolidated%20Stats" width="45%">
             <br>
             <br>
