@@ -12,7 +12,7 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="200px">
+    <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="200px" style="cursor: default;">
 </div>
 
 <div align="center">
