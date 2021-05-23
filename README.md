@@ -23,7 +23,7 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 
 <div>
     <p>
-        <h3>✨&nbsp;about-me.js&nbsp;✨</h3>
+        <h2>✨&nbsp;about-me.js&nbsp;✨</h2>
     </p>
 </div>
 
