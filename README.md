@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50px" height="50px" style="position: relative; top: 13px;">
 
-My name is ***Vignesh Manikandan***.<br>
+My name is ***Vignesh Manikandan*** and I craft astounding user experiences on the ***World Wide Web***!<br>
 I'm a ***_Software Development Engineer_*** at ***[Aruba Networks](https://www.arubanetworks.com)***.
 
 <div align="center">
@@ -15,12 +15,11 @@ I'm a ***_Software Development Engineer_*** at ***[Aruba Networks](https://www.a
     <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="200px">
 </div>
 
-
-## Socials 👇🏼
-<div style="display: flex; justify-content: flex-start; align-items: center;">
-    <a href="mailto:vigneshm1797@gmail.com" style="width: 50px; height: 50px; background-color:red"><img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif" alt="twitter" width="60px"></a>
-    <a href="https://www.twitter.com/v_gn_sh" style="width: 50px; height: 50px; background-color:blue"><img src="https://media.giphy.com/media/j4jpTe4QhFdTrEucXL/giphy.gif" alt="twitter" width="60px"></a>
-    <a href="https://www.instagram.com/the.vig" style="width: 50px; height: 50px; background-color: green"><img src="https://media.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif" alt="instagram" width="60px"></a>
+<div align="center">
+    <p align="center"><h2>✨&nbsp;Socials&nbsp;✨</h2></p>
+    <a href="mailto:vigneshm1797@gmail.com" style="width: 50px; height: 50px;"><img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif" alt="twitter" width="60px"></a>
+    <a href="https://www.twitter.com/v_gn_sh" style="width: 50px; height: 50px;"><img src="https://media.giphy.com/media/j4jpTe4QhFdTrEucXL/giphy.gif" alt="twitter" width="60px"></a>
+    <a href="https://www.instagram.com/the.vig" style="width: 50px; height: 50px;"><img src="https://media.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif" alt="instagram" width="60px"></a>
 </div>
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
