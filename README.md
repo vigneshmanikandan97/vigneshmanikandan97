@@ -70,6 +70,7 @@ const vignesh  = {
 <section>
     <p><h2>✨&nbsp;Other Stats&nbsp;✨</h2></p>
     <br>
+    
     <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172443%20lines%20of%20code-blue)
 
