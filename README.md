@@ -22,7 +22,7 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <a href="https://www.instagram.com/the.vig" style="width: 50px; height: 50px;"><img src="https://media.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif" alt="instagram" width="60px"></a>
 </div>
 
-<div style="display: flex; justify-content: flex-start; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: center;">
     <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" alt="wave-gif" width="30px" height="50px">
     <p>
         <h3>&nbsp;&nbsp;&nbsp;about-me.js</h3>
