@@ -18,9 +18,9 @@ I'm a ***_Software Development Engineer_*** at ***[Aruba Networks](https://www.a
 
 ## Socials 👇🏼
 <div style="display: flex; justify-content: flex-start; align-items: center;">
-    <a href="mailto:vigneshm1797@gmail.com" style="width: 40px; height: 40px"><img src="https://media.giphy.com/media/XyDkWE5lRElx73hgwg/giphy.gif" alt="twitter" width="60px"></a>
-    <a href="https://www.twitter.com/v_gn_sh" style="width: 50px; height: 50px"><img src="https://media.giphy.com/media/j4jpTe4QhFdTrEucXL/giphy.gif" alt="twitter" width="60px"></a>
-    <a href="https://www.instagram.com/the.vig" style="width: 50px; height: 50px"><img src="https://media.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif" alt="instagram" width="60px"></a>
+    <a href="mailto:vigneshm1797@gmail.com" style="width: 50px; height: 50px; background-color:red"><img src="https://media.giphy.com/media/GDs9d9ctyvm3KEfyFM/giphy.gif" alt="twitter" width="60px"></a>
+    <a href="https://www.twitter.com/v_gn_sh" style="width: 50px; height: 50px; background-color:blue"><img src="https://media.giphy.com/media/j4jpTe4QhFdTrEucXL/giphy.gif" alt="twitter" width="60px"></a>
+    <a href="https://www.instagram.com/the.vig" style="width: 50px; height: 50px; background-color: green"><img src="https://media.giphy.com/media/Wu9Graz2W46frtHFKc/giphy.gif" alt="instagram" width="60px"></a>
 </div>
 
 <div style="display: flex; justify-content: flex-start; align-items: center;">
