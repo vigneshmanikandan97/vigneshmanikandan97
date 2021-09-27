@@ -41,7 +41,7 @@ const vignesh  = {
             { backend: ["Node", "Express", "Flask"] },
             { miscLibraries: {
                     js: ["animeJS", "GSAP", "gulpJS", "webpack", "babel"],
-                    css: ["skeletonCSS", "SASS/SCSS", "bootstrap", "Material Design"],
+                    css: ["Tailwind", "skeletonCSS", "SASS/SCSS", "bootstrap", "Material Design"],
                     py: ["numpy", "pandas", "matplotlib", "seaborn", "scikit-learn"]
                 }
             },
