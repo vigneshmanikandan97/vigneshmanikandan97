@@ -78,7 +78,7 @@ const vignesh  = {
 
 > 🏆 370 Contributions in the Year 2021
  > 
-> 📦 36.2 kB Used in GitHub's Storage 
+> 📦 41.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -135,7 +135,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2021
+ Last Updated on 10/10/2021
 <!--END_SECTION:waka-->
 </section>
 
