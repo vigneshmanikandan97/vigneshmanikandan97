@@ -1,7 +1,7 @@
 <h1>Hi there 👋🏼</h1>
 
 My name is ***Vignesh Manikandan*** and I craft astounding user experiences on the ***World Wide Web***!<br>
-***_Software Development Engineer_*** at ***[Aruba Networks](https://www.arubanetworks.com)*** by 🏙 , ***Code Ninja*** by 🌌.
+***_Software Development Specialist_*** at ***[Aruba Networks](https://www.arubanetworks.com)*** by 🏙 , ***Code Ninja*** by 🌌.
 
 <div align="center">
     <img src="https://media.giphy.com/media/DgHAJrveNYC0N9oQjy/giphy.gif" width="50px">
