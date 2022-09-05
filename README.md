@@ -80,7 +80,7 @@ const vignesh  = {
 
 > 🏆 19 Contributions in the Year 2022
  > 
-> 📦 43.2 kB Used in GitHub's Storage 
+> 📦 43.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -88,42 +88,6 @@ const vignesh  = {
  > 
 > 🔑 13 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    52 commits     ██████░░░░░░░░░░░░░░░░░░░   26.0% 
-🌆 Daytime    107 commits    █████████████░░░░░░░░░░░░   53.5% 
-🌃 Evening    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-🌙 Night      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Wednesday    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
-Thursday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Friday       56 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
-Sunday       38 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -137,7 +101,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:49:01 UTC
+ Last Updated on 05/09/2022 18:51:51 UTC
 <!--END_SECTION:waka-->
 </section>
 
