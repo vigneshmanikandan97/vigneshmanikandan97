@@ -37,7 +37,7 @@ const vignesh  = {
         pronouns = "he/him",
         tech = [
             { languages: ["JavaScript", "Python", "Java", "Ruby"] },
-            { frontend: ["Angular", "React, "Ember"] },
+            { frontend: ["Angular", "React", "Ember"] },
             { backend: ["Node", "Express", "Flask"] },
             { miscLibraries: {
                     js: ["animeJS", "GSAP", "gulpJS", "webpack", "babel"],
