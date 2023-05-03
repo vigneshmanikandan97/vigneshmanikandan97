@@ -1,7 +1,7 @@
 <h1>Hi there 👋🏼</h1>
 
 My name is ***Vignesh Manikandan*** and I craft astounding user experiences on the ***World Wide Web***!<br>
-***_Software Development Specialist_*** at ***[Aruba Networks](https://www.arubanetworks.com)*** by 🏙 , ***Code Ninja*** by 🌌.
+***_Software Development Specialist_*** at ***[Freshworks](https://www.freshworks.com)*** by 🏙 , ***Code Ninja*** by 🌌.
 
 <div align="center">
     <img src="https://media.giphy.com/media/DgHAJrveNYC0N9oQjy/giphy.gif" width="50px">
@@ -30,14 +30,14 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 ```javascript
 const vignesh  = {
         name = "Vignesh Manikandan",
-        profession = "Software Developer",
+        profession = "Senior Software Developer",
         age = 24,
-        location = "Bengaluru, KA",
-        company = "Aruba Networks",
+        location = "Chennai, TN",
+        company = "Freshworks",
         pronouns = "he/him",
         tech = [
-            { languages: ["JavaScript", "Python", "Java"] },
-            { frontend: ["Angular", "React"] },
+            { languages: ["JavaScript", "Python", "Java", "Ruby"] },
+            { frontend: ["Angular", "React, "Ember"] },
             { backend: ["Node", "Express", "Flask"] },
             { miscLibraries: {
                     js: ["animeJS", "GSAP", "gulpJS", "webpack", "babel"],
@@ -45,8 +45,8 @@ const vignesh  = {
                     py: ["numpy", "pandas", "matplotlib", "seaborn", "scikit-learn"]
                 }
             },
-            { db: ["mongo", "mysql"] },
-            { tools: ["GitHub", "Perforce", "Jenkins", "Visual Studio Code", "PyCharm", "Jupyter Notebook"] }
+            { db: ["mongo", "mysql", "redis"] },
+            { tools: ["GitHub", "Perforce", "Jenkins", "Visual Studio Code", "PyCharm", "Jupyter Notebook", "AWS - S3, EKS, EC2"] }
         ]
     }
 }
