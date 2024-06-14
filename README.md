@@ -80,8 +80,6 @@ const vignesh  = {
 
 > 📦 16.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -132,7 +130,7 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 18:38:22 UTC
+ Last Updated on 14/06/2024 18:38:08 UTC
 <!--END_SECTION:waka-->
 </section>
 
