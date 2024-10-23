@@ -72,6 +72,8 @@ const vignesh  = {
     <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -84,6 +86,39 @@ const vignesh  = {
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                122 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+🌆 Daytime                215 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
+🌃 Evening                93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Wednesday                109 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Friday                   110 commits         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -95,7 +130,7 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 18:42:43 UTC
+ Last Updated on 23/10/2024 18:42:42 UTC
 <!--END_SECTION:waka-->
 </section>
 
