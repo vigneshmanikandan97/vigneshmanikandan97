@@ -72,6 +72,8 @@ const vignesh  = {
     <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -128,7 +130,7 @@ JavaScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 18:39:16 UTC
+ Last Updated on 11/11/2024 18:41:22 UTC
 <!--END_SECTION:waka-->
 </section>
 
