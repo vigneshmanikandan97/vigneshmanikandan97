@@ -124,13 +124,14 @@ No Activity Tracked This Week
 ```text
 Python                   5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
 Jupyter Notebook         5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 17/12/2024 18:46:00 UTC
+ Last Updated on 18/12/2024 18:44:29 UTC
 <!--END_SECTION:waka-->
 </section>
 
