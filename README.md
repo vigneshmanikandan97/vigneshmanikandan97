@@ -72,11 +72,15 @@ const vignesh  = {
     <br>
     
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374.3%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -84,20 +88,52 @@ const vignesh  = {
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                122 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌆 Daytime                218 commits         ███████████░░░░░░░░░░░░░░   44.76 % 
+🌃 Evening                93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌙 Night                  54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                109 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Friday                   112 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Saturday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
 Jupyter Notebook         5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 09/01/2025 18:43:38 UTC
+ Last Updated on 10/01/2025 18:42:37 UTC
 <!--END_SECTION:waka-->
 </section>
 
