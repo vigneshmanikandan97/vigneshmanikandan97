@@ -8,7 +8,12 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 </div>
 
 <div align="center">
-    <p><h3><i><strong>Hit me up if you have any cool ideas that we can collaborate on!<strong></i></h3></p>
+    <p>
+        <h3>
+            <strong>I can help build your cool project.<strong>
+            <a href="mailto:vigneshm1797@gmail.com">Let's talk work.</a>
+        </h3>
+    </p>
 </div>
 
 <div align="center">
@@ -23,34 +28,16 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 
 <div>
     <p>
-        <h2>✨&nbsp;about-me.js&nbsp;✨</h2>
+        <h2>✨ About Me ✨</h2>
     </p>
+    <ul>
+        <li style="list-style: none; font-size: medium;">💼&nbsp;&nbsp;Fullstack engineer with a strong Frontend focus</li>
+        <li style="list-style: none; font-size: medium;">👨🏻‍💻&nbsp;&nbsp;Loves to build intricate user interfaces with React</li>
+        <li style="list-style: none; font-size: medium;">🫂&nbsp;&nbsp;Open source enthusiast</li>
+        <li style="list-style: none; font-size: medium;">🤝&nbsp;&nbsp;Will argue about good DX for a better UX</li>
+        <li style="list-style: none; font-size: medium;">🏎️&nbsp;&nbsp;Avid Petrolhead - Can probably fix your car(s) too</li>
+    </ul>
 </div>
-
-```javascript
-const vignesh  = {
-        name = "Vignesh Manikandan",
-        profession = "Senior Software Developer",
-        age = 24,
-        location = "Chennai, TN",
-        company = "Freshworks",
-        pronouns = "he/him",
-        tech = [
-            { languages: ["JavaScript", "Python", "Java", "Ruby"] },
-            { frontend: ["Angular", "React", "Ember"] },
-            { backend: ["Node", "Express", "Flask"] },
-            { miscLibraries: {
-                    js: ["animeJS", "GSAP", "gulpJS", "webpack", "babel"],
-                    css: ["Tailwind", "skeletonCSS", "SASS/SCSS", "bootstrap", "Material Design"],
-                    py: ["numpy", "pandas", "matplotlib", "seaborn", "scikit-learn"]
-                }
-            },
-            { db: ["mongo", "mysql", "redis"] },
-            { tools: ["GitHub", "Perforce", "Jenkins", "Visual Studio Code", "PyCharm", "Jupyter Notebook", "AWS - S3, EKS, EC2"] }
-        ]
-    }
-}
-```
 
 <br>
 
