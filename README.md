@@ -59,9 +59,7 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,39 +71,6 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-🌆 Daytime                252 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌃 Evening                133 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌙 Night                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Wednesday                136 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Friday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Saturday                 79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Sunday                   127 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -119,7 +84,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:42:01 UTC
+ Last Updated on 15/02/2025 18:38:41 UTC
 <!--END_SECTION:waka-->
 </section>
 
