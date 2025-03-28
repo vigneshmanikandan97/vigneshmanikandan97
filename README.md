@@ -59,13 +59,13 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-373.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.0 kB Used in GitHub's Storage 
- > 
-> 🏆 59 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,6 +73,39 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                118 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+🌆 Daytime                205 commits         ███████████░░░░░░░░░░░░░░   44.18 % 
+🌃 Evening                90 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Wednesday                110 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Friday                   107 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -85,7 +118,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 18:44:55 UTC
+ Last Updated on 28/03/2025 18:47:01 UTC
 <!--END_SECTION:waka-->
 </section>
 
