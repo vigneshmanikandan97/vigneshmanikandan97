@@ -59,6 +59,8 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -73,6 +75,39 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                124 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌆 Daytime                216 commits         ███████████░░░░░░░░░░░░░░   43.11 % 
+🌃 Evening                107 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+🌙 Night                  54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Tuesday                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Wednesday                113 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   118 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -86,7 +121,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 18:44:45 UTC
+ Last Updated on 17/11/2025 18:48:51 UTC
 <!--END_SECTION:waka-->
 </section>
 
