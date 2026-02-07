@@ -65,15 +65,15 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 
 **🐱 My GitHub Data** 
 
-> 📦 18.2 kB Used in GitHub's Storage 
+> 📦 21.6 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -108,20 +108,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Jupyter Notebook         5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 06/02/2026 19:11:29 UTC
+ Last Updated on 07/02/2026 18:59:19 UTC
 <!--END_SECTION:waka-->
 </section>
 
