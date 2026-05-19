@@ -59,6 +59,8 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.61%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -119,7 +121,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 20:10:41 UTC
+ Last Updated on 19/05/2026 20:11:12 UTC
 <!--END_SECTION:waka-->
 </section>
 
