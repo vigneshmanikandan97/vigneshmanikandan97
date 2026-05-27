@@ -61,13 +61,13 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.61%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-427.90%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.8 kB Used in GitHub's Storage 
+> 📦 23.4 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2026
+> 🏆 77 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -78,21 +78,21 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                130 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-🌆 Daytime                279 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
-🌃 Evening                148 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-🌙 Night                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+🌞 Morning                130 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌆 Daytime                279 commits         ███████████░░░░░░░░░░░░░░   44.15 % 
+🌃 Evening                149 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌙 Night                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Tuesday                  116 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Wednesday                123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Friday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Sunday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Tuesday                  116 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Wednesday                124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   146 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Sunday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 ```
 
 
@@ -111,17 +111,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 26/05/2026 20:28:29 UTC
+ Last Updated on 27/05/2026 20:31:58 UTC
 <!--END_SECTION:waka-->
 </section>
 
