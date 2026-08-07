@@ -59,8 +59,6 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
     <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456.06%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,45 +73,6 @@ My name is ***Vignesh Manikandan*** and I craft astounding user experiences on t
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                148 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌆 Daytime                324 commits         ███████████░░░░░░░░░░░░░░   45.13 % 
-🌃 Evening                172 commits         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-🌙 Night                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Tuesday                  118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Wednesday                138 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Thursday                 119 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Friday                   182 commits         ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Saturday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -127,7 +86,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:05:56 UTC
+ Last Updated on 07/08/2026 00:22:24 UTC
 <!--END_SECTION:waka-->
 </section>
 
